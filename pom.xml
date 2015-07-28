@@ -17,7 +17,7 @@
 
     <groupId>ddf</groupId>
     <artifactId>ddf-parent</artifactId>
-    <version>3.0.4-SNAPSHOT</version>
+    <version>3.0.4.ALPHA1</version>
     <packaging>pom</packaging>
     <name>DDF Parent</name>
     <description>Distributed Data Framework (DDF) Parent</description>
@@ -58,7 +58,7 @@
         <reports.repository.url />
 
         <!-- Must MANUALLY update this if the ddf/support project's version changes -->
-        <ddf.support.version>2.3.4-SNAPSHOT</ddf.support.version>
+        <ddf.support.version>2.3.4.ALPHA1</ddf.support.version>
 
         <!-- Do NOT set karaf.data or karaf.base -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
