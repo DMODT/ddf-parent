@@ -17,7 +17,7 @@
 
     <groupId>ddf</groupId>
     <artifactId>ddf-parent</artifactId>
-    <version>3.0.4.ALPHA1</version>
+    <version>3.0.4-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>DDF Parent</name>
     <description>Distributed Data Framework (DDF) Parent</description>
